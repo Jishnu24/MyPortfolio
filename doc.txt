@@ -1,0 +1,33 @@
+Neon Pink (#FF007F), Electric Blue (#00FFFF), and Bright Green (#39FF14).
+
+
+Neon Purple: #B026FF
+
+Gives a sense of mystery and creativity, ideal for highlights and emphasis.
+Neon Orange: #FF4500
+
+Adds energy and warmth, excellent for call-to-action buttons or notifications.
+Neon Yellow: #FFFF33
+
+Bright and attention-grabbing, great for icons or small elements to add contrast.
+Neon Cyan: #00FFFF (Electric Blue)
+
+Perfect for text and links; it’s bright yet easy on the eyes in dark mode.
+Neon Green (Lime): #39FF14
+
+Fresh and lively, ideal for icons, hover effects, or buttons.
+Neon Magenta: #FF00FF
+
+A bold, playful color that works well for accent borders or action elements.
+Neon Teal: #00FFD1
+
+Modern and calming, great for subtle accents or UI highlights.
+Hot Pink: #FF1493
+
+Vivid and energetic, popular for highlighting interactive elements like links and buttons.
+Neon Red: #FF073A
+
+Intense and powerful, suitable for urgent notifications or standout buttons.
+Bright Indigo: #4B0082
+
+Adds depth and intrigue, perfect for text shadows or subtle accents.
